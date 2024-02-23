@@ -1,4 +1,7 @@
 # Anjin Virtual Computer (SNAPSHOT / PRE-FEB 23rd 2024)
+
+### This readme has been left intact from the original creators' github (Simon J Gillespie), see the WIKI of this project for Win XP specific information
+
 A virtual computer running in a Quest Headset with Unity using the Qemu emulator
 
 See the wiki https://github.com/SimonJGillespie/AnjinVirtualComputer/wiki for install details and further documentation
